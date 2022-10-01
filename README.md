@@ -15,7 +15,7 @@ I hope you find it usefull.
 
 #### 0 - Prerequisite
 
-- **Installation and Setup** ([notebook](https://github.com/farhadvaseghi/Tensorflow_Tutorial)). Preparing system for installing tensorflow on gpu and cpu.
+- **Installation and Setup** ([notebook](https://github.com/farhadvaseghi/Tensorflow-Tutorial/blob/master/1.Installation_and_Setup/Installation.ipynb)). Preparing system for installing tensorflow on gpu and cpu.
 
 [//]: < - [Introduction to Machine Learning](https://github.com/aymericdamien/TensorFlow-Examples/blob/master/tensorflow_v2/notebooks/0_Prerequisite/ml_introduction.ipynb).>
 
@@ -24,7 +24,7 @@ I hope you find it usefull.
 #### 1 - Introduction
 [//]: < - **Hello World** ([notebook](https://github.com/aymericdamien/TensorFlow-Examples/blob/master/tensorflow_v2/notebooks/1_Introduction/helloworld.ipynb)). Very simple example to learn how to print "hello world" using TensorFlow 2.0+.>
 
-- **Basic Operations** ([notebook](https://github.com/farhadvaseghi/Tensorflow_Tutorial)). A simple example that cover TensorFlow 2.0+ basic operations.
+- **Basic Operations** ([notebook](https://github.com/farhadvaseghi/Tensorflow-Tutorial/blob/master/2.Basic_Tensor_Operation/Basic_Tensor_Operations.ipynb)). A simple example that cover TensorFlow 2.0+ basic operations.
 
 #### 2 - Basic Models
 - **Linear Regression** ([notebook](https://github.com/farhadvaseghi/Tensorflow_Tutorial)). Implement a Linear Regression with TensorFlow 2.0+.
